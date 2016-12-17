@@ -1,0 +1,656 @@
+[31-Mar-2016 16:55:58 Europe/Berlin] 0::connect_db.inc:27: mysql_connect(): Access denied for user 'iultechc_fron200'@'localhost' (using password: YES)
+[31-Mar-2016 16:55:58 Europe/Berlin] 0::connect_db.inc:28: mysql_select_db() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:55:58 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:55:58 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:55:58 Europe/Berlin] 0::connect_db.inc:154: mysql_errno() expects parameter 1 to be resource, boolean given
+[31-Mar-2016 16:55:58 Europe/Berlin] 0::connect_db.inc:114: mysql_num_rows() expects parameter 1 to be resource, null given
+[31-Mar-2016 16:56:16 Europe/Berlin] 0::connect_db.inc:27: mysql_connect(): Access denied for user 'iultechc_fron200'@'localhost' (using password: YES)
+[31-Mar-2016 16:56:16 Europe/Berlin] 0::connect_db.inc:28: mysql_select_db() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:56:16 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:56:16 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:56:16 Europe/Berlin] 0::connect_db.inc:154: mysql_errno() expects parameter 1 to be resource, boolean given
+[31-Mar-2016 16:56:16 Europe/Berlin] 0::connect_db.inc:114: mysql_num_rows() expects parameter 1 to be resource, null given
+[31-Mar-2016 16:56:22 Europe/Berlin] 0::connect_db.inc:27: mysql_connect(): Access denied for user 'iultechc_fron200'@'localhost' (using password: YES)
+[31-Mar-2016 16:56:22 Europe/Berlin] 0::connect_db.inc:28: mysql_select_db() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:56:22 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:56:22 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:56:22 Europe/Berlin] 0::connect_db.inc:154: mysql_errno() expects parameter 1 to be resource, boolean given
+[31-Mar-2016 16:56:22 Europe/Berlin] 0::connect_db.inc:114: mysql_num_rows() expects parameter 1 to be resource, null given
+[31-Mar-2016 16:56:25 Europe/Berlin] 0::connect_db.inc:27: mysql_connect(): Access denied for user 'iultechc_fron200'@'localhost' (using password: YES)
+[31-Mar-2016 16:56:25 Europe/Berlin] 0::connect_db.inc:28: mysql_select_db() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:56:25 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:56:25 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:56:25 Europe/Berlin] 0::connect_db.inc:154: mysql_errno() expects parameter 1 to be resource, boolean given
+[31-Mar-2016 16:56:25 Europe/Berlin] 0::connect_db.inc:114: mysql_num_rows() expects parameter 1 to be resource, null given
+[31-Mar-2016 16:57:08 Europe/Berlin] 0::connect_db.inc:27: mysql_connect(): Access denied for user 'iultechc_fron200'@'localhost' (using password: YES)
+[31-Mar-2016 16:57:08 Europe/Berlin] 0::connect_db.inc:28: mysql_select_db() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:57:08 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:57:08 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:57:08 Europe/Berlin] 0::connect_db.inc:154: mysql_errno() expects parameter 1 to be resource, boolean given
+[31-Mar-2016 16:57:08 Europe/Berlin] 0::connect_db.inc:114: mysql_num_rows() expects parameter 1 to be resource, null given
+[31-Mar-2016 16:59:38 Europe/Berlin] 1::connect_db.inc:27: mysql_connect(): Access denied for user 'iultechc_fron200'@'localhost' (using password: YES)
+[31-Mar-2016 16:59:38 Europe/Berlin] 1::connect_db.inc:28: mysql_select_db() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:59:38 Europe/Berlin] 1::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:59:38 Europe/Berlin] 1::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:59:38 Europe/Berlin] 1::connect_db.inc:154: mysql_errno() expects parameter 1 to be resource, boolean given
+[31-Mar-2016 16:59:38 Europe/Berlin] 1::connect_db.inc:114: mysql_num_rows() expects parameter 1 to be resource, null given
+[31-Mar-2016 16:59:41 Europe/Berlin] 0::connect_db.inc:27: mysql_connect(): Access denied for user 'iultechc_fron200'@'localhost' (using password: YES)
+[31-Mar-2016 16:59:41 Europe/Berlin] 0::connect_db.inc:28: mysql_select_db() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:59:41 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:59:41 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:59:41 Europe/Berlin] 0::connect_db.inc:154: mysql_errno() expects parameter 1 to be resource, boolean given
+[31-Mar-2016 16:59:41 Europe/Berlin] 0::connect_db.inc:114: mysql_num_rows() expects parameter 1 to be resource, null given
+[31-Mar-2016 16:59:44 Europe/Berlin] 0::connect_db.inc:27: mysql_connect(): Access denied for user 'iultechc_fron200'@'localhost' (using password: YES)
+[31-Mar-2016 16:59:44 Europe/Berlin] 0::connect_db.inc:28: mysql_select_db() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:59:44 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:59:44 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:59:44 Europe/Berlin] 0::connect_db.inc:154: mysql_errno() expects parameter 1 to be resource, boolean given
+[31-Mar-2016 16:59:44 Europe/Berlin] 0::connect_db.inc:114: mysql_num_rows() expects parameter 1 to be resource, null given
+[31-Mar-2016 16:59:47 Europe/Berlin] 0::connect_db.inc:27: mysql_connect(): Access denied for user 'iultechc_fron200'@'localhost' (using password: YES)
+[31-Mar-2016 16:59:47 Europe/Berlin] 0::connect_db.inc:28: mysql_select_db() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:59:47 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:59:47 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 16:59:47 Europe/Berlin] 0::connect_db.inc:154: mysql_errno() expects parameter 1 to be resource, boolean given
+[31-Mar-2016 16:59:47 Europe/Berlin] 0::connect_db.inc:114: mysql_num_rows() expects parameter 1 to be resource, null given
+[31-Mar-2016 17:00:24 Europe/Berlin] 0::connect_db.inc:27: mysql_connect(): Access denied for user 'iultechc_fron200'@'localhost' (using password: YES)
+[31-Mar-2016 17:00:24 Europe/Berlin] 0::connect_db.inc:28: mysql_select_db() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 17:00:24 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 17:00:24 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 17:00:24 Europe/Berlin] 0::connect_db.inc:154: mysql_errno() expects parameter 1 to be resource, boolean given
+[31-Mar-2016 17:00:24 Europe/Berlin] 0::connect_db.inc:98: mysql_fetch_array() expects parameter 1 to be resource, null given
+[31-Mar-2016 17:00:24 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 17:00:24 Europe/Berlin] 0::connect_db.inc:154: mysql_errno() expects parameter 1 to be resource, boolean given
+[31-Mar-2016 17:00:24 Europe/Berlin] 0::connect_db.inc:98: mysql_fetch_array() expects parameter 1 to be resource, null given
+[31-Mar-2016 17:00:29 Europe/Berlin] 0::connect_db.inc:27: mysql_connect(): Access denied for user 'iultechc_fron200'@'localhost' (using password: YES)
+[31-Mar-2016 17:00:29 Europe/Berlin] 0::connect_db.inc:28: mysql_select_db() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 17:00:29 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 17:00:29 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 17:00:29 Europe/Berlin] 0::connect_db.inc:154: mysql_errno() expects parameter 1 to be resource, boolean given
+[31-Mar-2016 17:00:29 Europe/Berlin] 0::connect_db.inc:98: mysql_fetch_array() expects parameter 1 to be resource, null given
+[31-Mar-2016 17:00:29 Europe/Berlin] 0::connect_db.inc:60: mysql_query() expects parameter 2 to be resource, boolean given
+[31-Mar-2016 17:00:29 Europe/Berlin] 0::connect_db.inc:154: mysql_errno() expects parameter 1 to be resource, boolean given
+[31-Mar-2016 17:00:29 Europe/Berlin] 0::connect_db.inc:98: mysql_fetch_array() expects parameter 1 to be resource, null given
+[31-Mar-2016 19:12:42 UTC] 0::current_user.inc:730:[before upgrade] opendir(./company/0/js_cache/0): failed to open dir: No such file or directory
+[31-Mar-2016 19:26:01 UTC] 1:admin:current_user.inc:730:[before upgrade] opendir(./company/1/js_cache/1): failed to open dir: No such file or directory
+[01-Apr-2016 13:53:49 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[08-Apr-2016 18:14:21 UTC] 1:admin:current_user.inc:730: opendir(./company/1/js_cache/1): failed to open dir: No such file or directory
+[08-Apr-2016 18:27:23 UTC] 2:admin:current_user.inc:730: opendir(./company/2/js_cache/1): failed to open dir: No such file or directory
+[08-Apr-2016 18:28:20 UTC] 3:admin:current_user.inc:730: opendir(./company/3/js_cache/1): failed to open dir: No such file or directory
+[08-Apr-2016 18:29:13 UTC] 4:admin:current_user.inc:730: opendir(./company/4/js_cache/1): failed to open dir: No such file or directory
+[08-Apr-2016 18:30:10 UTC] 5:admin:current_user.inc:730: opendir(./company/5/js_cache/1): failed to open dir: No such file or directory
+[08-Apr-2016 18:31:09 UTC] 6:admin:current_user.inc:730: opendir(./company/6/js_cache/1): failed to open dir: No such file or directory
+[08-Apr-2016 18:32:18 UTC] 7:admin:current_user.inc:730: opendir(./company/7/js_cache/1): failed to open dir: No such file or directory
+[08-Apr-2016 18:32:52 UTC] 9:admin:current_user.inc:730: opendir(./company/9/js_cache/1): failed to open dir: No such file or directory
+[08-Apr-2016 18:33:47 UTC] 8:admin:current_user.inc:730: opendir(./company/8/js_cache/1): failed to open dir: No such file or directory
+[08-Apr-2016 18:35:14 UTC] 10:admin:current_user.inc:730: opendir(./company/10/js_cache/1): failed to open dir: No such file or directory
+[08-Apr-2016 18:38:26 UTC] 11:admin:current_user.inc:730: opendir(./company/11/js_cache/1): failed to open dir: No such file or directory
+[08-Apr-2016 19:49:27 UTC] 4:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[08-Apr-2016 19:50:33 UTC] 4:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[08-Apr-2016 19:50:37 UTC] 4:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[08-Apr-2016 19:52:15 UTC] 4:admin:current_user.inc:211: Invalid argument supplied for foreach()
+[08-Apr-2016 19:57:30 UTC] <b>ERRO BASE DE DADOS:</b> could not get all fiscal years<br>error code : 1267<br>error message : Illegal mix of collations (utf8_general_ci,COERCIBLE) and (latin1_swedish_ci,NUMERIC) for operation '>='<br>sql that failed was : SELECT * FROM 7_fiscal_year WHERE '2016-31-08' >= begin AND '2016-31-08' <= end AND closed=0<br><br><br>
+[08-Apr-2016 19:58:21 UTC] 4:admin:current_user.inc:211: Invalid argument supplied for foreach()
+[08-Apr-2016 19:58:30 UTC] 4:admin:current_user.inc:211: Invalid argument supplied for foreach()
+[08-Apr-2016 19:58:35 UTC] <b>ERRO BASE DE DADOS:</b> could not get all fiscal years<br>error code : 1267<br>error message : Illegal mix of collations (utf8_general_ci,COERCIBLE) and (latin1_swedish_ci,NUMERIC) for operation '>='<br>sql that failed was : SELECT * FROM 7_fiscal_year WHERE '2016-31-08' >= begin AND '2016-31-08' <= end AND closed=0<br><br><br>
+[08-Apr-2016 19:58:44 UTC] <b>ERRO BASE DE DADOS:</b> could not get all fiscal years<br>error code : 1267<br>error message : Illegal mix of collations (utf8_general_ci,COERCIBLE) and (latin1_swedish_ci,NUMERIC) for operation '>='<br>sql that failed was : SELECT * FROM 7_fiscal_year WHERE '2016-31-08' >= begin AND '2016-31-08' <= end AND closed=0<br><br><br>
+[08-Apr-2016 19:59:04 UTC] <b>ERRO BASE DE DADOS:</b> could not get all fiscal years<br>error code : 1267<br>error message : Illegal mix of collations (utf8_general_ci,COERCIBLE) and (latin1_swedish_ci,NUMERIC) for operation '>='<br>sql that failed was : SELECT * FROM 7_fiscal_year WHERE '2031-08-2016' >= begin AND '2031-08-2016' <= end AND closed=0<br><br><br>
+[10-Apr-2016 20:53:26 UTC] 4:admin:current_user.inc:211: Invalid argument supplied for foreach()
+[10-Apr-2016 20:53:31 UTC] 4:admin:current_user.inc:211: Invalid argument supplied for foreach()
+[10-Apr-2016 20:53:36 UTC] 4:admin:current_user.inc:211: Invalid argument supplied for foreach()
+[16-Apr-2016 15:06:00 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:00 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:00 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:00 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:00 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:00 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:00 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:11 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:11 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:11 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:11 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:11 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:11 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:11 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:19 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:19 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:19 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:19 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:19 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:19 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:19 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:20 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:20 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:20 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:20 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:20 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:20 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 15:06:20 UTC] 0:admin:connect_db_mysqli.inc:108: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[16-Apr-2016 20:54:43 UTC] 0:admin:current_user.inc:211: Invalid argument supplied for foreach()
+[16-Apr-2016 20:54:46 UTC] 0:admin:current_user.inc:211: Invalid argument supplied for foreach()
+[16-Apr-2016 21:04:07 UTC] 0:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[16-Apr-2016 21:04:07 UTC] 0:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[16-Apr-2016 21:04:07 UTC] 0:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[16-Apr-2016 21:04:07 UTC] 0:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[16-Apr-2016 21:04:07 UTC] 0:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[16-Apr-2016 21:04:07 UTC] 0:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[16-Apr-2016 21:04:07 UTC] 0:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[17-Apr-2016 22:26:43 UTC] 0:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[17-Apr-2016 22:26:43 UTC] 0:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[17-Apr-2016 22:26:43 UTC] 0:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[17-Apr-2016 22:26:43 UTC] 0:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[17-Apr-2016 22:26:43 UTC] 0:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[17-Apr-2016 22:26:43 UTC] 0:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[17-Apr-2016 22:26:43 UTC] 0:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[17-Apr-2016 22:26:43 UTC] 0:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[18-Apr-2016 14:10:16 UTC] 12:admin:current_user.inc:730: opendir(./company/12/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 14:37:52 UTC] 13:admin:current_user.inc:730: opendir(./company/13/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 14:40:00 UTC] 14:admin:current_user.inc:730: opendir(./company/14/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 14:40:31 UTC] 15:admin:current_user.inc:730: opendir(./company/15/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 14:42:10 UTC] 16:admin:current_user.inc:730: opendir(./company/16/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 14:44:15 UTC] 17:admin:current_user.inc:730: opendir(./company/17/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 14:44:59 UTC] 18:admin:current_user.inc:730: opendir(./company/18/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 14:47:28 UTC] 37:admin:current_user.inc:730: opendir(./company/37/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 14:47:56 UTC] 19:admin:current_user.inc:730: opendir(./company/19/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 14:48:27 UTC] <b>ERRO BASE DE DADOS:</b> could not get validate user login for admin<br>error code : 1146<br>error message : Table 'iultechc_fron200.28_users' doesn't exist<br>sql that failed was : SELECT * FROM 28_users WHERE user_id = 'admin' AND password='5f4dcc3b5aa765d61d8327deb882cf99'<br><br><br>
+[18-Apr-2016 14:48:31 UTC] <b>ERRO BASE DE DADOS:</b> could not get validate user login for admin<br>error code : 1146<br>error message : Table 'iultechc_fron200.28_users' doesn't exist<br>sql that failed was : SELECT * FROM 28_users WHERE user_id = 'admin' AND password='5f4dcc3b5aa765d61d8327deb882cf99'<br><br><br>
+[18-Apr-2016 14:48:32 UTC] 20::current_user.inc:730:[before upgrade] opendir(./company/20/js_cache/0): failed to open dir: No such file or directory
+[18-Apr-2016 14:48:35 UTC] <b>ERRO BASE DE DADOS:</b> could not get validate user login for admin<br>error code : 1146<br>error message : Table 'iultechc_fron200.28_users' doesn't exist<br>sql that failed was : SELECT * FROM 28_users WHERE user_id = 'admin' AND password='5f4dcc3b5aa765d61d8327deb882cf99'<br><br><br>
+[18-Apr-2016 14:49:29 UTC] <b>ERRO BASE DE DADOS:</b> could not get validate user login for admin<br>error code : 1146<br>error message : Table 'iultechc_fron200.28_users' doesn't exist<br>sql that failed was : SELECT * FROM 28_users WHERE user_id = 'admin' AND password='5f4dcc3b5aa765d61d8327deb882cf99'<br><br><br>
+[18-Apr-2016 14:49:51 UTC] 21:admin:current_user.inc:730: opendir(./company/21/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 14:50:51 UTC] 22:admin:current_user.inc:730: opendir(./company/22/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 14:51:59 UTC] 23:admin:current_user.inc:730: opendir(./company/23/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 14:57:44 UTC] 38:admin:current_user.inc:730: opendir(./company/38/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 14:58:18 UTC] 24:admin:current_user.inc:730: opendir(./company/24/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 15:05:20 UTC] <b>ERRO BASE DE DADOS:</b> could not get validate user login for admin<br>error code : 1146<br>error message : Table 'iultechc_fron200.34_users' doesn't exist<br>sql that failed was : SELECT * FROM 34_users WHERE user_id = 'admin' AND password='5f4dcc3b5aa765d61d8327deb882cf99'<br><br><br>
+[18-Apr-2016 15:05:22 UTC] 26::current_user.inc:730:[before upgrade] opendir(./company/26/js_cache/0): failed to open dir: No such file or directory
+[18-Apr-2016 15:05:28 UTC] 36:admin:current_user.inc:730: opendir(./company/36/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 15:09:53 UTC] 35:admin:current_user.inc:730: opendir(./company/35/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 15:21:36 UTC] 34:admin:current_user.inc:730: opendir(./company/34/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 15:22:25 UTC] 32:admin:current_user.inc:730: opendir(./company/32/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 15:23:54 UTC] 31:admin:current_user.inc:730: opendir(./company/31/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 15:26:25 UTC] 30:admin:current_user.inc:730: opendir(./company/30/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 15:29:14 UTC] 29:admin:current_user.inc:730: opendir(./company/29/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 15:30:36 UTC] 28:admin:current_user.inc:730: opendir(./company/28/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 15:31:10 UTC] 27:admin:current_user.inc:730: opendir(./company/27/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 15:31:35 UTC] <b>ERRO BASE DE DADOS:</b> could not get validate user login for admin<br>error code : 1146<br>error message : Table 'iultechc_fron200.34_users' doesn't exist<br>sql that failed was : SELECT * FROM 34_users WHERE user_id = 'admin' AND password='5f4dcc3b5aa765d61d8327deb882cf99'<br><br><br>
+[18-Apr-2016 20:24:50 UTC] 26:admin:current_user.inc:730: opendir(./company/26/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 20:28:45 UTC] <b>ERRO BASE DE DADOS:</b> could not get validate user login for admin<br>error code : 1146<br>error message : Table 'iultechc_fron200.28_users' doesn't exist<br>sql that failed was : SELECT * FROM 28_users WHERE user_id = 'admin' AND password='b938a079940c5935abe33121e7148d99'<br><br><br>
+[18-Apr-2016 20:28:48 UTC] 9::current_user.inc:730:[before upgrade] opendir(./company/9/js_cache/0): failed to open dir: No such file or directory
+[18-Apr-2016 20:28:53 UTC] <b>ERRO BASE DE DADOS:</b> could not get validate user login for admin<br>error code : 1146<br>error message : Table 'iultechc_fron200.28_users' doesn't exist<br>sql that failed was : SELECT * FROM 28_users WHERE user_id = 'admin' AND password='b938a079940c5935abe33121e7148d99'<br><br><br>
+[18-Apr-2016 20:28:57 UTC] <b>ERRO BASE DE DADOS:</b> could not get validate user login for admin<br>error code : 1146<br>error message : Table 'iultechc_fron200.28_users' doesn't exist<br>sql that failed was : SELECT * FROM 28_users WHERE user_id = 'admin' AND password='5f4dcc3b5aa765d61d8327deb882cf99'<br><br><br>
+[18-Apr-2016 20:32:25 UTC] <b>ERRO BASE DE DADOS:</b> could not get validate user login for admin<br>error code : 1146<br>error message : Table 'iultechc_fron200.34_users' doesn't exist<br>sql that failed was : SELECT * FROM 34_users WHERE user_id = 'admin' AND password='b938a079940c5935abe33121e7148d99'<br><br><br>
+[18-Apr-2016 20:32:26 UTC] 15::current_user.inc:730:[before upgrade] opendir(./company/15/js_cache/0): failed to open dir: No such file or directory
+[18-Apr-2016 20:35:09 UTC] 20:admin:current_user.inc:730: opendir(./company/20/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 20:37:17 UTC] 25:admin:current_user.inc:730: opendir(./company/25/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 20:40:00 UTC] <b>ERRO BASE DE DADOS:</b> could not get validate user login for admin<br>error code : 1146<br>error message : Table 'iultechc_fron200.28_users' doesn't exist<br>sql that failed was : SELECT * FROM 28_users WHERE user_id = 'admin' AND password='5f4dcc3b5aa765d61d8327deb882cf99'<br><br><br>
+[18-Apr-2016 20:41:50 UTC] 26:admin:current_user.inc:730: opendir(./company/26/js_cache/1): failed to open dir: No such file or directory
+[18-Apr-2016 20:44:27 UTC] 27:admin:current_user.inc:730: opendir(./company/27/js_cache/1): failed to open dir: No such file or directory
+[19-Apr-2016 18:50:12 UTC] Erro de arredondamento 0.01 encontrado para trans_type:10,trans_no:5
+[21-Apr-2016 08:14:44 UTC] 17:admin:po_db.inc:30: Creating default object from empty value
+[21-Apr-2016 08:16:16 UTC] <b>DATABASE ERROR :</b> FATAL : duplicate purchase order found<br>sql that failed was : <br><br><br>
+[21-Apr-2016 08:20:09 UTC] <b>DATABASE ERROR :</b> Could not find work order 2<br>sql that failed was : SELECT wo.*,st.description As StockItemName,l.location_name,
+    		l.delivery_address,l.email, l.contact, st.inventory_account, st.wip_account
+		FROM 21_workorders wo, 21_stock_master st, 21_locations l
+		WHERE st.stock_id=wo.stock_id
+		AND	l.loc_code=wo.loc_code
+		AND wo.id='2'
+		GROUP BY wo.id<br><br><br>
+[21-Apr-2016 08:20:14 UTC] <b>DATABASE ERROR :</b> Could not find work order 2<br>sql that failed was : SELECT wo.*,st.description As StockItemName,l.location_name,
+    		l.delivery_address,l.email, l.contact, st.inventory_account, st.wip_account
+		FROM 21_workorders wo, 21_stock_master st, 21_locations l
+		WHERE st.stock_id=wo.stock_id
+		AND	l.loc_code=wo.loc_code
+		AND wo.id='2'
+		GROUP BY wo.id<br><br><br>
+[14-May-2016 16:52:06 UTC] 0:admin:maintenance_db.inc:927: mkdir(): File exists
+[14-May-2016 16:52:06 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:52:06 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:52:06 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:52:06 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:52:06 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:52:06 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:52:17 UTC] 0:admin:maintenance_db.inc:927: mkdir(): File exists
+[14-May-2016 16:52:17 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:52:17 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:52:17 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:52:17 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:52:17 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:52:17 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:53:42 UTC] 0:admin:maintenance_db.inc:927: mkdir(): File exists
+[14-May-2016 16:53:42 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:53:42 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:53:42 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:53:42 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:53:42 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:53:42 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:06 UTC] 0:admin:maintenance_db.inc:927: mkdir(): File exists
+[14-May-2016 16:54:06 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:06 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:06 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:06 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:06 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:06 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:09 UTC] 0:admin:maintenance_db.inc:927: mkdir(): File exists
+[14-May-2016 16:54:09 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:09 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:09 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:09 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:09 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:09 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:30 UTC] 0:admin:maintenance_db.inc:927: mkdir(): File exists
+[14-May-2016 16:54:30 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:30 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:30 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:30 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:30 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:30 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:34 UTC] 0:admin:maintenance_db.inc:927: mkdir(): File exists
+[14-May-2016 16:54:34 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:34 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:34 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:34 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:34 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:54:34 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:23 UTC] 0:admin:maintenance_db.inc:927: mkdir(): File exists
+[14-May-2016 16:56:23 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:23 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:23 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:23 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:23 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:23 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:46 UTC] 0:admin:maintenance_db.inc:927: mkdir(): File exists
+[14-May-2016 16:56:46 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:46 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:46 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:46 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:46 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:46 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:51 UTC] 0:admin:maintenance_db.inc:927: mkdir(): File exists
+[14-May-2016 16:56:51 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:51 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:51 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:51 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:51 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:51 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:55 UTC] 0:admin:maintenance_db.inc:927: mkdir(): File exists
+[14-May-2016 16:56:55 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:55 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:55 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:55 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:55 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[14-May-2016 16:56:55 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[15-May-2016 10:19:39 UTC] 1:admin:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:19:39 UTC] 1:admin:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:19:39 UTC] 1:admin:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:19:39 UTC] 1:admin:session.inc:489:[before upgrade] include(): Failed opening '../company/1/installed_extensions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php')
+[15-May-2016 10:20:06 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:20:06 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:20:06 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:20:06 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(): Failed opening './company/1/installed_extensions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php')
+[15-May-2016 10:20:07 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:20:07 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:20:07 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:20:07 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(): Failed opening './company/1/installed_extensions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php')
+[15-May-2016 10:20:09 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:20:09 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:20:09 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:20:09 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(): Failed opening '../company/1/installed_extensions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php')
+[15-May-2016 10:20:49 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:20:49 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:20:49 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:20:49 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(): Failed opening '../company/1/installed_extensions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php')
+[15-May-2016 10:20:51 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:20:51 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:20:51 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:20:51 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(): Failed opening '../company/1/installed_extensions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php')
+[15-May-2016 10:20:52 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:20:52 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:20:52 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:20:52 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(): Failed opening '../company/1/installed_extensions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php')
+[15-May-2016 10:21:01 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:21:01 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:21:01 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:21:01 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(): Failed opening './company/1/installed_extensions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php')
+[15-May-2016 10:21:03 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:21:03 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:21:03 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:21:03 UTC] 1:ADMIN:session.inc:489:[before upgrade] include(): Failed opening '../company/1/installed_extensions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php')
+[15-May-2016 10:21:13 UTC] 1:admin:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:21:13 UTC] 1:admin:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:21:13 UTC] 1:admin:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:21:13 UTC] 1:admin:session.inc:489:[before upgrade] include(): Failed opening './company/1/installed_extensions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php')
+[15-May-2016 10:21:15 UTC] 1:admin:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:21:15 UTC] 1:admin:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:21:15 UTC] 1:admin:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:21:15 UTC] 1:admin:session.inc:489:[before upgrade] include(): Failed opening './company/1/installed_extensions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php')
+[15-May-2016 10:21:16 UTC] 1:admin:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:21:16 UTC] 1:admin:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:21:16 UTC] 1:admin:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 10:21:16 UTC] 1:admin:session.inc:489:[before upgrade] include(): Failed opening '../company/1/installed_extensions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php')
+[15-May-2016 11:17:24 UTC] 1:admin:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 11:17:24 UTC] 1:admin:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 11:17:24 UTC] 1:admin:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 11:17:24 UTC] 1:admin:session.inc:489:[before upgrade] include(): Failed opening './company/1/installed_extensions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php')
+[15-May-2016 11:17:25 UTC] 1:admin:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 11:17:25 UTC] 1:admin:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 11:17:25 UTC] 1:admin:session.inc:489:[before upgrade] include(../company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 11:17:25 UTC] 1:admin:session.inc:489:[before upgrade] include(): Failed opening '../company/1/installed_extensions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php')
+[15-May-2016 11:19:07 UTC] 1:admin:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 11:19:07 UTC] 1:admin:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 11:19:07 UTC] 1:admin:session.inc:489:[before upgrade] include(./company/1/installed_extensions.php): failed to open stream: No such file or directory
+[15-May-2016 11:19:07 UTC] 1:admin:session.inc:489:[before upgrade] include(): Failed opening './company/1/installed_extensions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php')
+[16-May-2016 21:30:59 UTC] 0:admin:header.inc:141: include_once(../themes/aqua/renderer.php): failed to open stream: No such file or directory
+[16-May-2016 21:30:59 UTC] 0:admin:header.inc:141: include_once(): Failed opening '../themes/aqua/renderer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php')
+[16-May-2016 21:31:03 UTC] 0:admin:header.inc:141: include_once(../themes/aqua/renderer.php): failed to open stream: No such file or directory
+[16-May-2016 21:31:03 UTC] 0:admin:header.inc:141: include_once(): Failed opening '../themes/aqua/renderer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php')
+[16-May-2016 21:33:27 UTC] 0:admin:current_user.inc:211: Invalid argument supplied for foreach()
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:23 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:38 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:39 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:39 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:39 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:39 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:39 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:39 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:39 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:39 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:39 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:39 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:39 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:39 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:39 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:39 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:39 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:39 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:39 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:39 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:40 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:52 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[19-May-2016 18:04:53 UTC] 3:admin:class.graphic.inc:1004: imagettftext(): Could not find/open font
+[28-May-2016 21:30:26 UTC] 0:admin:maintenance_db.inc:927: mkdir(): File exists
+[28-May-2016 21:30:26 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[28-May-2016 21:30:26 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[28-May-2016 21:30:26 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[28-May-2016 21:30:26 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[28-May-2016 21:30:26 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[28-May-2016 21:30:26 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[28-May-2016 21:32:34 UTC] 0:admin:maintenance_db.inc:927: mkdir(): File exists
+[28-May-2016 21:32:34 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[28-May-2016 21:32:34 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[28-May-2016 21:32:34 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[28-May-2016 21:32:34 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[28-May-2016 21:32:34 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[28-May-2016 21:32:34 UTC] 0:admin:maintenance_db.inc:934: mkdir(): File exists
+[28-May-2016 21:34:55 UTC] 33:admin:current_user.inc:730: opendir(./company/33/js_cache/1): failed to open dir: No such file or directory

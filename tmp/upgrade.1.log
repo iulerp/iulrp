@@ -1,0 +1,5 @@
+[31-Mar-2016 19:26:56 UTC] [Info] Upgrade started for company 1.
+[31-Mar-2016 19:26:56 UTC] [Info] Security backup in file ../company/1/backup/iultechc_fron220_20160331_1926.sql done.
+[31-Mar-2016 19:26:58 UTC] [Info] Switching database to utf8 encoding from latin1
+[31-Mar-2016 19:27:11 UTC] [Info] Convertion to utf8 done.
+[31-Mar-2016 19:27:12 UTC] [Info] Upgrade for company 1 finished.
